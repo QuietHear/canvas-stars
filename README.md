@@ -1,3 +1,5 @@
+# 功能展示
+[点此观看](https://quiethear.github.io/canvas-stars/canves动画--画星星.html "神龙斗士星星")(建议右键新建窗口查看)
 # 说明文档
 > ### 使用步骤
 >> 1. 下载插件
